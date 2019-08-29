@@ -7,5 +7,5 @@ I have learned the following things this week:
 * How to add and use extantions in **Visual Studio Code**.
 * Advantage of **Live Server**.
 
-[Github]: www.github.com
+[Github]: https://github.com/
 [Profile]: https://github.com/romilshah98/Assignment1.git
