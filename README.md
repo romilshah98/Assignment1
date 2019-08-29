@@ -1,8 +1,8 @@
-# Assignment1
+# Assignment 1
 > This page is just a _sample page_ for uploading on [Github] to my [Profile].
 
 I have learned the following things this week:
-* The history of **Web Architecture**.
+* The history and future of **Web Architectures**.
 * Usage of **GitHub** and **GitHub Desktop**.
 * How to add and use extantions in **Visual Studio Code**.
 * Advantage of **Live Server**.
