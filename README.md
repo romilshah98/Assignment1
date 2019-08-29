@@ -3,7 +3,7 @@
 
 I have learned the following things this week:
 * The history of **Web Architecture**.
-* Usage of 1. **GitHub** 2. **GitHub Desktop**.
+* Usage of **GitHub** and **GitHub Desktop**.
 * How to add and use extantions in **Visual Studio Code**.
 * Advantage of **Live Server**.
 
