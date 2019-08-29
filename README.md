@@ -1,9 +1,9 @@
 # Assignment1
- _This_ page is **just** a sample for uploading on [Github] on my [Profile].
+> This page is just a _sample page_ for uploading on [Github] to my [Profile].
 
 I have learned the following things this week:
->* The history of architecture of **Web Frameworks**.
-* Usage of **GitHub** and **GitHub Desktop**.
+* The history of **Web Architecture**.
+* Usage of 1. **GitHub** 2. **GitHub Desktop**.
 * How to add and use extantions in **Visual Studio Code**.
 * Advantage of **Live Server**.
 
